@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Necessary Shopping Point</string>
+    <string name="search">Search</string>
+    <string name="app_label">Search</string>
+    <string name="copy">Copy</string>
+    <string name="fill_up_the_form_below">Fill up the form below</string>
+    <string name="bkash_number">Bkash Number</string>
+    <string name="money_trasaction_id">Money Trasaction Id</string>
+    <string name="confirm">Confirm</string>
+    <string name="catagory">Catagory</string>
+    <string name="buy">Buy</string>
+    <string name="developed_by">Developed By</string>
+    <string name="codesphear">CodeSphear</string>
+    <string name="thank_you_nwe_will_contact_with_you_as_soon_as_posible">Thank you.\nWe will contact with you as soon as posible.</string>
+    <string name="your_requested_product">Your Requested Product:</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="choose_payment_option">Choose Payment Option</string>
+    <string name="cash_on_delivary">Cash on delivary</string>
+    <string name="bkash">Bkash</string>
+    <string name="show_all">Show All</string>
+</resources>
